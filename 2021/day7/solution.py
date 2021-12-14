@@ -32,4 +32,4 @@ if __name__ == '__main__':
 
     # part 2
     assert calculate_fuel_used(example, linear=False) == 168
-    print(f'Part 1 solution: {calculate_fuel_used(actual, linear=False)}')
+    print(f'Part 2 solution: {calculate_fuel_used(actual, linear=False)}')
