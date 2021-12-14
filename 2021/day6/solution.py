@@ -1,7 +1,6 @@
 import os
-import numpy as np
 from collections import Counter
-from typing import List, Tuple
+from typing import List
 
 DIRNAME = os.path.dirname(__file__)
 
